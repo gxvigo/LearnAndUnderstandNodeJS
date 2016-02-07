@@ -5,7 +5,7 @@
 			"name": "Launch",
 			"type": "node",
 			"request": "launch",
-			"program": "app.events2.js",
+			"program": "app_events_inherits_2-sample.js",
 			"stopOnEntry": false,
 			"args": [],
 			"cwd": ".",
